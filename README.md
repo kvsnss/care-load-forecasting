@@ -98,7 +98,8 @@ Derived predictive features include:
 
 
 ## Key Performance Indicators (KPIs)
-<img width="1352" height="514" alt="image" src="https://github.com/user-attachments/assets/a5b7cdad-6f3c-4deb-b9b8-41075d5474ed" />
+<img width="1420" height="650" alt="image" src="https://github.com/user-attachments/assets/2a952a70-4301-4272-b597-b27d931ff73d" />
+
 
 
 
