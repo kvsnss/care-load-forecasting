@@ -6,18 +6,22 @@ Detailed guide and project requirements for the Predictive Forecasting of Care L
 The UAC Program operates in a high-uncertainty environment, where sudden changes in border activity, policy enforcement, or humanitarian crises can rapidly increase the number of children entering federal care.  While descriptive analytics explain what has already happened, HHS decision-makers require forward-looking intelligence to answer:
 
 • How many children will be under HHS care in the coming days or weeks?
+
 • Will discharge capacity be sufficient to offset incoming transfers?
+
 • When should shelters, medical staff, and caseworkers be scaled up in advance?
+
 This project introduces predictive modeling to enable proactive, rather than reactive, healthcare and child-welfare planning
-Unified Mentor
-U.S Department of Health and Human Services
 ## Problem Statement
 
 Despite having high-quality daily time-series data, the UAC Program currently lacks:
 
 • Short-term forecasts of children in HHS care
+
 • Predictive estimates of discharge (placement) demand
+
 • Early-warning indicators of upcoming capacity stress
+
 As a result, operational responses are often delayed, increasing:
 
 • Overcrowding risk
