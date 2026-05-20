@@ -98,7 +98,8 @@ Derived predictive features include:
 
 
 ## Key Performance Indicators (KPIs)
-<img width="918" height="628" alt="image" src="https://github.com/user-attachments/assets/78c9137d-0c36-4acd-86d0-08d2186b7392" />
+<img width="1352" height="514" alt="image" src="https://github.com/user-attachments/assets/a5b7cdad-6f3c-4deb-b9b8-41075d5474ed" />
+
 
 
 ## Streamlit Web Application Requirements
