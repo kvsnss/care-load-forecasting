@@ -48,13 +48,8 @@ As a result, operational responses are often delayed, increasing:
 
 ## Dataset Description
 
-COLUMN	DESCRIPTION
-Date	Reporting date
-Children apprehended and placed in CBP custody	Daily intake volume
-Children in CBP custody	Active CBP care load
-Children transferred out of CBP custody	Flow into HHS system
-Children in HHS Care	Active HHS care load
-Children discharged from HHS Care	Successful sponsor placements
+<img width="502" height="211" alt="Screenshot 2026-05-20 at 7 57 45 PM" src="https://github.com/user-attachments/assets/e0a97c2a-eaa6-401b-b902-f70da1156482" />
+
 ## Analytical Methodology (Step-by-Step)
 
 1.Time-Series Preparation
