@@ -94,29 +94,12 @@ Derived predictive features include:
  Random Forest Regressor, Gradient Boosting Regressor
  
 5.Model Evaluation
+<img width="1336" height="534" alt="image" src="https://github.com/user-attachments/assets/55d7f005-fe25-44fc-a081-730128955dc1" />
 
-METRIC	PURPOSE
-
-MAE	Absolute forecast accuracy
-
-RMSE	Penalizes large errors
-
-MAPE	Relative error understanding
-
-Horizon Error	Short vs medium-term reliability
 
 ## Key Performance Indicators (KPIs)
+<img width="918" height="628" alt="image" src="https://github.com/user-attachments/assets/78c9137d-0c36-4acd-86d0-08d2186b7392" />
 
-KPI NAME	DESCRIPTION
-Forecast Accuracy (%)	Reliability of predictions
-
-Surge Lead Time	Days of advance warning
-
-Capacity Breach Probability	Risk indicator
-
-Forecast Stability Index	Model robustness
-
-Model robustness	Long-term reliability
 
 ## Streamlit Web Application Requirements
 
