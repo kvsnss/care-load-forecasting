@@ -2,6 +2,8 @@ import streamlit as st
 import joblib
 import numpy as np
 
+joblib.dump(rf, 'random_forest.pkl')
+joblib.dump(gb, 'gradient_boosting.pkl')
 # Load models
 rf =joblib.load('random_forest.pkl')
 gb = joblib.load('gradient_boosting.pkl')
