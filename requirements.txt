@@ -6,4 +6,3 @@ pandas==2.2.2
 matplotlib==3.9.0
 skl2onnx==1.17.0
 onnxruntime==1.26.0
-pillow==10.2.0
